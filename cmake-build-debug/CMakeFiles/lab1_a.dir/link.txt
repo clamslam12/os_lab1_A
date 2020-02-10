@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/lab1_a.dir/main.cpp.o  -o lab1_a.exe -Wl,--out-implib,liblab1_a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
